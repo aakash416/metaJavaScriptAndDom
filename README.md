@@ -74,5 +74,5 @@ Open `index.html` directly in your browser.
 
 **Aakash Raj**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/aakash416
+- LinkedIn: https://www.linkedin.com/in/aakashraj416/
